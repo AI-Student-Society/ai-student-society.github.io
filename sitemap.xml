@@ -3,15 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://AI-Student-Society.github.io/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://AI-Student-Society.github.io/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://AI-Student-Society.github.io/authors/admin/</loc>
   </url>
   
   <url>
     <loc>https://AI-Student-Society.github.io/authors/ai2s/</loc>
-  </url>
-  
-  <url>
-    <loc>https://AI-Student-Society.github.io/</loc>
   </url>
   
   <url>
